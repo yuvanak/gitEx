@@ -16,6 +16,8 @@ class ViewController: UIViewController {
         print("Example of git in xcode")
     }
 
-
+    override func viewWillAppear(_ animated: Bool) {
+        
+    }
 }
 
